@@ -1,0 +1,25 @@
+.slideshow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#image {
+    width: 100%;
+    max-width: 1000px;
+    max-height: 800px;
+}
+
+.slideshow-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#previousBtn {
+    position: relative;
+}
+
+#nextBtn {
+    position: relative;
+}
